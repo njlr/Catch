@@ -27,3 +27,8 @@ Build
 cmake-build-debug
 cmake-build-release
 .vs
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
